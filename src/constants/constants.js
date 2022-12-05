@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Movie App',
     description:"the perfect app for movie lovers where you can find you popular movies and top reated. also you can see movie reviews and movie rating.",
-    image: '/images/2.png',
+    image: '/images/2.jpg',
     tags: ['React native', 'API', 'Redux ToolKit', 'Redux Persist'],
     source: 'https://github.com/Mahmoud412/Movie_app',
     visit: 'https://github.com/Mahmoud412/Movie_app',
@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'news',
     description: "The app gives the users easy access to the news and app contains many news categories. ",
-    image: '/images/4.png',
+    image: '/images/4.jpg',
     tags: ['React naive', 'react-native-webview', 'API'],
     source: 'https://github.com/Mahmoud412/NewsApp',
     visit: 'https://github.com/Mahmoud412/NewsApp',
