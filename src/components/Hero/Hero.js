@@ -12,7 +12,7 @@ const Hero = (props) => (
    I'm React Native Developer 
   </SectionTitle>
   <SectionText>
-  An innovative and fast-learning mobile app Developer with 1 year of experience building and maintaining responsive React native apps in the IT industry. Proficient in JavaScript, and API integration; plus modern libraries and frameworks. Passionate about usability, reusable components and possess working knowledge of Adobe XD, Figma.
+  An innovative and fast-learning mobile app Developer with 1+ year of experience building and maintaining responsive React native apps in the IT industry. Proficient in JavaScript, and API integration; plus modern libraries and frameworks. Passionate about usability, reusable components and possess working knowledge of Adobe XD, Figma.
   </SectionText>
     <Button onClick={()=>window.location='https://resume.io/r/dVxzXwHgt'}>Go To Resume</Button>
   </LeftSection>
