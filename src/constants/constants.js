@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Recipe App",
     description:
-      " fully qualified recipe app where you can explore new recipes and  healthy food",
+      " fully qualified recipe app where you can explore new recipes and  healthy food!",
     image: "./images/recipeApp.png",
     tags: [
       "react-redux ",
