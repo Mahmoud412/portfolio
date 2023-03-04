@@ -1,5 +1,21 @@
 export const projects = [
   {
+    title: "Recipe App",
+    description:
+      " fully qualified recipe app where you can explore new recipes and  healthy food!",
+    image: "./images/recipeApp.png",
+    tags: [
+      "react-redux ",
+      "Animation",
+      "video-player",
+      "fetch",
+      "React-navigation/drawer",
+    ],
+    source: "https://github.com/Mahmoud412/RecipeApp",
+    visit: "https://github.com/Mahmoud412/RecipeApp",
+    id: 0,
+  },
+  {
     title: "Uber Eats",
     description:
       "Using React Native and firebase & react-native-google-places-autocomplete , we had full delivery app where users can order food from different restaurants. the app also contain pick up restaurants and many other options ",
@@ -7,7 +23,7 @@ export const projects = [
     tags: ["react-redux ", "formik", "yup", "axios"],
     source: "https://github.com/Mahmoud412/Uber-eats-clone",
     visit: "https://github.com/Mahmoud412/Uber-eats-clone",
-    id: 0,
+    id: 6,
   },
   {
     title: "Movie App",
