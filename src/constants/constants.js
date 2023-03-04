@@ -8,7 +8,6 @@ export const projects = [
       "react-redux ",
       "Animation",
       "video-player",
-      "fetch",
       "React-navigation/drawer",
     ],
     source: "https://github.com/Mahmoud412/RecipeApp",
